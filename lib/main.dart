@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugasbottomnav/dashborad_screen.dart';
+import 'package:tugasbottomnav/dashborad_page.dart';
 
 void main() {
   runApp(const MyApp());
